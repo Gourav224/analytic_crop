@@ -1,18 +1,17 @@
-````markdown
-# analytic_crop
+# Analytic Crop
 
-This project utilizes React with TypeScript in Vite to perform analytics on Indian Agriculture crop data, as per the requirements provided by Manufac Analytics Pvt. Ltd.
+This project utilizes React with TypeScript in Vite to perform analytics on Indian agriculture crop data, as per the requirements provided by Manufac Analytics Pvt. Ltd.
 
 ## Table of Contents
 
--   [Introduction](#introduction)
--   [Installation](#installation)
--   [Usage](#usage)
--   [Scripts](#scripts)
--   [Project Details](#project-details)
--   [Evaluation Criteria](#evaluation-criteria)
--   [Screenshots](#screenshots)
--   [Submission](#submission)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts](#scripts)
+- [Project Details](#project-details)
+- [Evaluation Criteria](#evaluation-criteria)
+- [Screenshots](#screenshots)
+- [Submission](#submission)
 
 ## Introduction
 
@@ -32,7 +31,6 @@ cd analytic_crop
 # Install dependencies using npm
 npm install
 ```
-````
 
 ## Usage
 
@@ -46,17 +44,17 @@ This command will launch the application at `http://localhost:3000`.
 
 ## Scripts
 
--   `npm run dev`: Starts the development server with Vite.
--   `npm run build`: Builds the production-ready bundle.
--   `npm run lint`: Lints TypeScript files using ESLint.
--   `npm run format`: Formats code using Prettier.
--   `npm run test`: Runs tests, if any.
+- `npm run dev`: Starts the development server with Vite.
+- `npm run build`: Builds the production-ready bundle.
+- `npm run lint`: Lints TypeScript files using ESLint.
+- `npm run format`: Formats code using Prettier.
+- `npm run test`: Runs tests, if any.
 
 ## Project Details
 
--   **Tools Used**: React, TypeScript, Vite, ESLint
--   **Functionality**: Analyzes and displays Indian Agriculture crop data.
--   **Enhancements**: You can expand ESLint configuration for production applications by updating `parserOptions` and installing additional ESLint plugins.
+- **Tools Used**: React, TypeScript, Vite, ESLint
+- **Functionality**: Analyzes and displays Indian agriculture crop data.
+- **Enhancements**: You can expand ESLint configuration for production applications by updating `parserOptions` and installing additional ESLint plugins.
 
 ## Evaluation Criteria
 
@@ -69,10 +67,10 @@ This command will launch the application at `http://localhost:3000`.
 
 Include screenshots of your application's tables here.
 
--   Table 1: Crop Production Analysis
+- Table 1: Crop Production Analysis
 
 ![Table 1](./public/img1.png)
 
--   Table 2: Crop Yield and Cultivation Area Analysis
+- Table 2: Crop Yield and Cultivation Area Analysis
 
 ![Table 2](./public/img2.png)
